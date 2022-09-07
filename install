@@ -1,5 +1,6 @@
 #!/bin/bash
 . ~/.config/user-dirs.dirs
+cd /opt/prime-on-linux/
 clear
 
 realUser=$USER;
